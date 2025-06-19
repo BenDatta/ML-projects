@@ -1,10 +1,11 @@
 # ML-practice
 Tech Stack
+
 Language: Python
 
 Data Handling: pandas, NumPy
 
-Modeling: scikit-learn (Linear Regression, Random Forest)
+Modeling: Supervised learning scikit-learn (Linear Regression, Random Forest, Classification)
 
 Preprocessing: OneHotEncoder, train_test_split
 
