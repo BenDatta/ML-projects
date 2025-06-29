@@ -14,3 +14,5 @@ Visualization: matplotlib, seaborn
 Serialization: pickle
 
 Notebook: Jupyter Notebook
+
+Model Logging : ML Flow

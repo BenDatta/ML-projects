@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/550361945077833643/9814866f0e934d7a805c72c50abef808/artifacts
+deleted_time: 1751190053504
+end_time: 1751189997643
+entry_point_name: ''
+experiment_id: '550361945077833643'
+lifecycle_stage: deleted
+run_id: 9814866f0e934d7a805c72c50abef808
+run_name: Behavioural predicition - LogR
+run_uuid: 9814866f0e934d7a805c72c50abef808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751189984317
+status: 3
+tags: []
+user_id: benny

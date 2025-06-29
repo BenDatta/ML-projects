@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/550361945077833643/e23967db490f4d2fa30664146ad48510/artifacts
+deleted_time: 1751189721775
+end_time: 1751189485976
+entry_point_name: ''
+experiment_id: '550361945077833643'
+lifecycle_stage: deleted
+run_id: e23967db490f4d2fa30664146ad48510
+run_name: nosy-fowl-244
+run_uuid: e23967db490f4d2fa30664146ad48510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751189485924
+status: 3
+tags: []
+user_id: benny

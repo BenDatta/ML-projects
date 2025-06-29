@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/550361945077833643/dde01cf6b4854d9795abadb5294374db/artifacts
+deleted_time: 1751189721775
+end_time: 1751189389250
+entry_point_name: ''
+experiment_id: '550361945077833643'
+lifecycle_stage: deleted
+run_id: dde01cf6b4854d9795abadb5294374db
+run_name: skittish-auk-352
+run_uuid: dde01cf6b4854d9795abadb5294374db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751189389211
+status: 4
+tags: []
+user_id: benny
